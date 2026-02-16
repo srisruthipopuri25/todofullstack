@@ -28,7 +28,7 @@ This project demonstrates a complete CRUD workflow from frontend to backend usin
 - Mongoose
 - CORS
 - dotenv
-
+MONGO_URI=mongodb+srv://srisruthipopuri:A7@nykaa.8vv9hop.mongodb.net/todo?appName=todolist
 ---
 
 
